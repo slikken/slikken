@@ -1,0 +1,47 @@
+.privacy-style
+{
+    display: flex;
+    align-items: center;
+    background-color: rgb(40, 68, 94);
+    color: White;
+    flex-direction: column;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+.big{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+button {
+    font-size: 40px;
+    background-color: rgb(231, 189, 0);
+    border-radius: 15px;
+    cursor: pointer;
+    padding: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+p {
+    width: 50%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.header {
+    padding-top: 50px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    
+}
